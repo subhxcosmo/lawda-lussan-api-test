@@ -18,11 +18,11 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "joi": "^17.11.0",
-    "axios": "^1.6.0",
+    "axios": "^1.7.0",
     "date-fns": "^2.30.0"
   },
   "devDependencies": {
-    "eslint": "^8.51.0",
+    "eslint": "^9.0.0",
     "eslint-config-next": "14.0.0"
   }
 }
